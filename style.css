@@ -1,6 +1,6 @@
-.carousel-item img {
+.top-carousel img {
     filter: brightness(30%);
-    min-height: 470px;
+    min-height: 500px;
 }
 
 .bg-color-primary {
