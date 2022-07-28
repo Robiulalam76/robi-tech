@@ -2,6 +2,14 @@
     filter: brightness(30%);
 }
 
+.bg-color-primary {
+    background-color: #289BDE;
+}
+
+.text-color-primary {
+    color: #289BDE;
+}
+
 .working-title {
     font-size: 3vw;
 }
