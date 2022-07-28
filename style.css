@@ -17,3 +17,8 @@
 .student-title {
     font-size: 3vw;
 }
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: #289BDE;
+}
