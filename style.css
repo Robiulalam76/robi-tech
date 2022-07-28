@@ -14,3 +14,7 @@
 .icon-color {
     background-color: #289BDE;
 }
+
+.course img {
+    min-width: 250px;
+}
