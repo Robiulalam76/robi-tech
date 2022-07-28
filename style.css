@@ -1,5 +1,6 @@
 .carousel-item img {
     filter: brightness(30%);
+    min-height: 470px;
 }
 
 .bg-color-primary {
@@ -8,14 +9,6 @@
 
 .text-color-primary {
     color: #289BDE;
-}
-
-.working-title {
-    font-size: 3vw;
-}
-
-.student-title {
-    font-size: 3vw;
 }
 
 .carousel-control-prev-icon,
